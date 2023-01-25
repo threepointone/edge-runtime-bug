@@ -1,0 +1,17 @@
+{
+  "name": "edge-runtime-bug",
+  "version": "0.0.0",
+  "description": "A sample project to demonstrate a bug in edge-runtime",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.mjs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "edge-runtime": "^2.0.3",
+    "esbuild": "^0.17.4",
+    "yjs": "^13.5.44"
+  }
+}
