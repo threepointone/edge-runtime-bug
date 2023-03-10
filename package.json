@@ -10,8 +10,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "edge-runtime": "^2.0.3",
-    "esbuild": "^0.17.4",
-    "yjs": "^13.5.44"
+    "edge-runtime": "^2.1.2",
+    "esbuild": "^0.17.11",
+    "yjs": "^13.5.49"
   }
 }
